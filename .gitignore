@@ -1,0 +1,6 @@
+Library
+Temp
+[Bb]uild*
+.consulo
+*.csproj
+*.sln
